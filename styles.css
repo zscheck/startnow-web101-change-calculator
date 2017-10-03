@@ -1,0 +1,21 @@
+body, html{
+    height: 100%;
+}
+body {
+    background-image: url("https://previews.123rf.com/images/ambientideas/ambientideas1007/ambientideas100700188/7320975-US-coin-currency-border-Isolated-on-white-background-focus-across-all-coins--Stock-Photo.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+label {
+    font-weight: bold;
+}
+div {
+    font-weight: bold;
+    padding: 10px;
+    border-top: 1px solid lightslategray;
+    width: 50%;
+    margin-left: 25%;
+}
